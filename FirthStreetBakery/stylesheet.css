@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-color: #da0e0e;
+}
+.header {
+  position: fixed;
+  left: 0;
+  bottom: 100%;
+  width: 100%;
+  background-color: rgb(220, 66, 0);
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+/* .footer {
+  position: fixed;
+  left: 0;
+  bottom: 100%;
+  width: 100%;
+  background-color: green;
+  color: rgb(255, 255, 255);
+  text-align: center;
+} */
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  text-shadow: 2px;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+} 
